@@ -1,0 +1,7 @@
+* Random Thoughts
+** Math vs Science: no evidence for math other than the "proof" graph.
+* Journal interface
+* Populating Database
+* Investigating how theories develop
+** How can we tell something is a theory from the citation graph?
+** How does a theory develop?
